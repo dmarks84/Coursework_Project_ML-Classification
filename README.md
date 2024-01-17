@@ -2,8 +2,8 @@
 ### Part of the Coursera series: IBM Data Science
     
 ## Summary
-In this project, we were tasked with creating plots which answer questions for analysing "historical_automobile_sales" data to understand the historical trends in automobile sales during recession periods.  We employed a number of data wrangling techniques before performing EDA adn then setting up a dashboard to visualize the results in realtime.
+I used classification algorithms to create a model based on a set of training data and evaluated our testing data to determine the best model to use for prediction.  I used several algorithms (Linear Regression, KNN, Decision Trees, Logistic Regression, and SVM).  I evaluated these models using Accuracy Score, Jaccard Index, F1-Score, LogLoss, Mean Absolute Error, Mean Squared Error, R2-Score).  
 
 ## Skills (Developed & Applied)
-Programming, Python, SciPy, Numpy, Pandas, Seaborn, Matplotlib, Plotly, Dash, Folium, Dataframes, ETL &| ELT & Data Pipelines, Data Modeling, EDA, Data Visualization, Data Summarization, Data Reporting, Dashboards, Communication
+Programming, Python, Numpy, Pandas, Scikit-learn, Dataframes, Data Modeling, Classification, Superived ML, Image Recognition, Text Recognition, Communication
     
